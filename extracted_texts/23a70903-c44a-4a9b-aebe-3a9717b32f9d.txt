@@ -1,0 +1,84 @@
+SUMMARY
+Good understanding in OOP.
+Good understanding in software design
+patterns.
+Basic understanding in UI/UX designs.
+Mahbub E Sobhani Himel
+Adaptability in OOP languages and
+structural programming languages.
+Road: 17, House: 03, Mirpur, Dhaka-1216.
+Basic understanding in web technologies.
++88-01521333309
+Basics in React JS.
+LinkedIn: Mahbub E Sobhani
+Basics in Laravel Framework.
+Portfolio: Mahbub E Sobhani
+Good understanding in machine learning
+GitHub: Mahbub E Sobhani
+python libraries.
+Codeforces: mahbubhimel
+Good understanding in neural networks
+Email: imsobhani171134@bscse.uiu.ac.bd
+and classification algorithms.
+Well-developed communication skill.
+OBJECTIVE
+| wish to work in an organization that can
+PROJECT LIST
+quench my thirst for knowledge and provide
+space to learn and gain experience in the field of
+1. Pirates Den Tour Buddy
+artificial intelligence and development while
+Tools and Technologies: PHP, MySQL.
+being resourceful, innovative, and flexible.
+2. A Fighting Game
+Tools and Technologies: C, I-graphics.
+3. Library Management System
+WORK EXPERIENCE
+Tools and Technologies: C
+4. Medical Management System
+Software Engineering Internship Program at
+SocialCube Limited
+Tools and Technologies: Java
+September 2021 - November 2021, Mogbazar,
+5. Intrusion Detection System Using
+Dhaka.
+Convolutional Neural Network
+Tools and Technologies: Keras, TensorFlow.
+Internship Trainee at SoftBD Limited
+6. Mom'sCradle
+February 2022 - March 2022, New Eskaton Road,
+Tools and Technologies: HTML, CSS, JS.
+Dhaka.
+7. Train-Ticket-System
+Tools and Technologies: PHP, JS, HTML, CSS,
+Trainee at Bangladesh-Japan ICT Engineers'
+Laravel, MySQL.
+Training Program
+8. Quiz App
+April 2022 - October 2022.
+Tools and Technologies: ReactJS, Firebase,
+JavaScript.
+EDUCATION
+Thesis Title: Sentence Pair Modeling for Current
+United International University / B. Sc in CSE
+Word Prediction in Bengali Language.
+January 2017 - March 2021, Satarkul, Badda
+Description: Context based current word
+CGPA: 3.49
+prediction since the current word is incomplete
+for Bengali Language in less computational cost
+ACHIEVEMENTS
+rather than pre-trained Language Model like
+Programming Contest Experience:
+BERT.
+2017:
+TECHNICAL SKILLS
+ICPC Dhaka Regional Preliminary Contest
+Programming knowledge in C, C++, C#,
+2018:
+Java, Python, JavaScript, PHP.
+UIU Coders Combat
+Database: SQL, Firebase.
+2019:
+Version Controlling System: GitHub.
+ICPC Dhaka Regional Preliminary Contest

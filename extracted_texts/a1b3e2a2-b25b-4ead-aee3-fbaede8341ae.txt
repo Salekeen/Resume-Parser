@@ -1,0 +1,116 @@
+Jabir Al Nahian
+jabirnahian009@gmail.com
++8801870761283
+Dhaka 1207, Bangladesh
+PROFILE
+A thoughtful, enthusiastic, and speedy learning Individual. Looking for an opportunity to connect with a group.
+So, | can completely use my ability of critical thinking, Problem-solving, and information in Software
+Development, Data Science and Artificial Intelligence to make an important expansion to the association
+alongside lifting my profession. I'm enthusiastic, can work independently or bunch-based, and like to adopt
+new things and advances.
+EDUCATION
+Aug 2017 - Jan 2022
+Computer Science and Engineering,
+Dhaka, Bangladesh
+Daffodil International University
+CGPA: 3.40 out of 4
+PROFESSIONAL EXPERIENCE
+Jan 2022 - Present
+Data Analyst (Remote), Apurba Technology LTD.
+Dhaka, Bangladesh
+Jun 2021 - Dec 2021
+Software Engineer (Intern), ESRD Lab BUET
+Dhaka, Bangladesh
+Jan 2021 - Dec 2021
+Research Assistant, Apurba-DIU R&D Lab
+Dhaka, Bangladesh
+SKILLS
+Coding
+Framework & Library
+More
+Soft Skills
+Python
+TensorFlow, Keras
+HTML, CSS
+Creativity
+C/C++
+Django, Flask
+WordPress, BootStrap
+Leadership
+Java
+Sklearn, Pandas,
+Git, JavaScript
+Management
+PHP
+Numpy, AWS
+SQL, Eclipse
+Public Speaking
+PUBLICATIONS
+Jabir Al Nahian, Abu Kaisar Mohammad Masum, Muntaser Mansur Syed, Sheikh Abujar, "An Insight
+into The Intricacies of Lingual Paraphrasing Pragmatic Discourse on The Purpose of Synonyms",
+Bulletin of Electrical Engineering and Informatics Journal, Vol 11, No 4, 2022. Index: (Scopus).
+Jabir Al Nahian, Abu Kaisar Mohammad Masum, Sheikh Abujar, Optimal Features Selection-based
+Lung Cancer Prediction Using Machine Learning and Deep Learning", IEEE Acces, Vol 2, No 6. 2022.
+Jabir Al Nahian, Abu Kaisar Mohammad Masum, Sheikh Abujar, Md. Jueal Mia, "Common Human
+Diseases Prediction Using Machine Learning Based on Survey Data", Bulletin of Electrical
+Engineering and Informatics Journal (Accepted).
+Rubaiya Tasnim Sholi, S.M Khasrul Alam Shakil, Md. Foysal Ahmed, Rafidul Hasan Khan, Umme
+SanzidaAfroz, Abu Kaisar Mohammad Masum, Jabir Al Nahian, "Application and Aspects of Computer
+Vision in Education", Bulletin of Electrical Engineering and Informatics Journal (Accepted).
+Rubaiya Tasnim Sholi, S.M Khasrul Alam Shakil, Md. Foysal Ahmed, Rafidul Hasan Khan, Umme
+SanzidaAfroz, Abu Kaisar Mohammad Masum, Jabir Al Nahian, "Application and Aspects of Computer
+Vision in Education", Bulletin of Electrical Engineering and Informatics Journal (Accepted).
+Abu Kaisar Mohammad Masum, Sheikh Abujar, Sharun Akter Khushbu, Jabir Al Nahian," "A
+Structured Transformer Neural Machine Translation on Abstractive Text Summarization for
+Bangla seq2seq Learning", Bulletin of Electrical Engineering and Informatics Journal (Accepted)
+Sheikh Abujar, Abu Kaisar Mohammad Masum, Nushrat Jahan Ria, Jabir Al Nahian, "LSTM matters: A
+Sequential Brief Text That Assistive Approach of Text Summarization", Bulletin of Electrical
+Engineering and Informatics Journal (Accepted).
+Sherin Sultana, Md Omur Faruk Redoy, Jabir Al Nahian, Abu Kaisar Mohammad Masum, Sheikh
+Abujar, "Detection of Abusive Bangla Comments for Mixed Social Media Data Using Machine
+Learning Bulletin of Electrical Engineering and Informatics Journal (Accepted).
+PROJECT
+Student Management System - Java
+Bangla CoronaBot - Python, Django
+Detect left and right eye using MobileNet - Deep Learning
+Attendance Management System - Java, HTML, JavaScript, and SQL Database
+Number Guessing Game
+Library Management System - Java, HTML, JavaScript, and SQL Database
+Airline Reservation System - Java, HTML, JavaScript, and SQL Database
+RESEARCH VOLUNTARY ACTIVITIES
+Jun 2022 - present
+Reviewer, Nature Journal
+United Kingdom
+July 2022 - present
+Reviewer, MDPI
+Switzerland
+Sep 2022 - present
+Reviewer, Elsevier
+Netherland
+Sep 2022 - present
+Editor, Andromeda Publishing and Academic Services
+London
+Jan 2021 - present
+Supervisor, DIU NLP and Machine Learning Research Lab
+Dhaka, Bangladesh
+Jan 2022 - present
+Organizing Committee Member, ICNLPA 2022
+Dhaka, Bangladesh
+Jan 2020 - present
+Research Scientist, Computational Intelligence Lab
+Dhaka, Bangladesh
+VOLUNTARY PARTICIPATION
+Lab Prefect -
+Artificial Intelligent Lab
+Data Mining Lab
+Web Engineering
+Wireless Programming
+Research Instructor - Machine Learning Team with Florida Institute of Technology.
+Instructor - Zero to Mastery Web Design, GCPC, DIU.
+Research Instructor - Nuclear Science Using Machine Learning collaboration with Missouri University of S&T.
+Academic Team Member - Bangladesh Math Olympiad Committee (BDMO)
+REFERENCES
+Abu Kaisar Mohammad Masum, Lecturer
+Daffodil International University
+abu.cse@diu.edu.bd
++8801676882085

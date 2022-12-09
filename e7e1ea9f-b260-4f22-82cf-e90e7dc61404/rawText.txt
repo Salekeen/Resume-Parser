@@ -1,0 +1,101 @@
+Umnoon Binta Ali
+Kapatakkho D702, Sector 18, Uttara, Dhaka-1230
+Github
+LinkedIn
+umnoon.ali@northsouth.edu
++8801627097553
+SUMMARY
+Innovative and scientifically rigorous recent graduate majoring in Computer Science and Engineering
+from North South University. I am a data science enthusiast. I am attentive to new technologies, take on
+leadership, and make analytical decisions.
+WORK EXPERIENCE
+Research Assistance
+April 2022 - July 2022
+Department of Electrical and Computer Engineering
+North South University
+Supervisor: Dr. Nabeel Mohammed
+Research Domain: Bangla NLP
+PROJECTS
+Transfer Learning for Speaker Diarization on Bangla Audio Dataset
+CSE499 Graduate Dissertation
+In this research, transfer learning was explored for speaker diarization on our own Bangla audio data. the
+approach sxperiments with different clustering algorithms and embedding techniques to reduce Diarization
+Error Rate, DER for noisy data.
+Contrastive Learning for Text-to-Image on Paraphrasing Captions
+CSE498 CO-OP Research Project
+In this research, I presented a contrastive learning strategy to for enhancing the quality and semantic
+consistency of synthetic images by paraphrasing the captions from the CUB dataset.
+A Deep Convolutional Neural Network for Bangla Handwritten Numeral Recognition
+CSE465 Pattern Recognition and Neural Network
+In this research, I studied the most unbiased and augmented Dataset NumtaDB to classify images in
+isolated Bangla numerals. I preprocessed the data, created synthetic data augmentation using keras
+library and feed the data to the training model in the pipeline stage. Furthermore, I used popular CNN
+network ResNet34 to better the performance of the model.
+Outbreak Prediction and Visualization: Covid-19
+CSE299 Junior Design Project
+Researchers and social and behavior change communication specialists at Johns Hopkins University wrote
+insights and analyses on how to use the data in partnership with WHO's Global Outbreak Alert and
+Response Network (GOARN). I used this data to predict the time of the highest spread of covid-19. The
+time-series visualization is done with PowerBI.
+SKILLS
+Programming
+Python, C, C++, Java, PHP, Latex
+Frameworks
+Keras, PyTorch, Tensorflow, Pandas, Matplotlib, OpenCV, Scikit Learn
+Front-end
+HTML5, CSS3, Bootstrap, ReactJs
+Back-end
+NodeJs, MySQL
+Visualization Tool
+PowerBI
+OS
+Windows, Linux
+DevOps
+Git
+Platforms
+MS Office, Adobe
+EDUCATION
+2017 - 2021
+Bachelor of Science at North South University
+(CGPA: 3.6/4.0)
+2015 - 2016
+Higher School Certificate at Rajuk Uttara Model College
+(GPA: 5.0/5.0)
+2013 - 2014
+Secondary School Certificate at Rajuk Uttara Model College
+(GPA: 5.0/5.0)
+EXTRA-CURRICULAR ACTIVITIES
+2018
+Arduino Workshop at NSU ACM Student Chapter
+Made obstacle avoiding robot
+2017-2019
+Computer and Engineering Club at North South University
+Junior member
+2012-2014
+Debating Club at Rajuk Uttara Model College
+Participated in the in-house Parliamentary Debating Competition
+2014-2015
+Played Handball at Rajuk Uttara Model College
+Regional Champion of Intra-School Handball Tournament
+Music
+I sing, play ukulele and have my own YouTube Channel
+Art
+Acrylic Paintings, Abstract Art, Digital Art
+ATTRIBUTES
+Design Skills
+AutoCAD, Sketch up
+Soft Skills
+Leadership, Team work, Adaptability, Digital Literacy
+Language Proficiency
+English, Bangla
+REFERENCE
+Dr. Nabeel Mohammed
+Assistant Professor
+Department of Electrical and Computer Engineering
+North South University
+Email: nabeel.mohammed@northsouth.edu
+Ms. Tanjila Farah
+Senior Lecturer
+Department of Electrical and Computer Engineering
+North South University
+Email: tanjila.farah@northsouth.edu

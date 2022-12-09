@@ -1,0 +1,177 @@
+Md Saif Hossain
+B.Sc & M.Sc in CSE, PGD in DS
+Career Objective
+Data Science, Big Data, Artificial Intelligence, Machine Learning oriented person
+specialized in Data Science with 09 months' experience under a Data Scientist at the
+University of Arizona. Maintain good results in the university records and be Interested
+to work in a creative, competitive and challenging environment where a strong sense of
+responsibility and commitment is required. Well-versed in numerous programming
+languages including Python, Java, JavaScript, NodeJS, MySQL, Assembly Language.
+Contact
+Working Experience
+PHONE
++8801566024660
+Assistant Teacher (08/05/2022 - 31/08/2022)
+EMAIL
+Banasree National Ideal School, Banasree
+saif.ndub@gmail.com
+Taken Classes of grade Six to Ten for the subject of Information and
+Communication Technology (ICT).
+ADDRESS
+Banasree Block-E, Road #4, House #41
+Junior Executive MIS (14/10/2021 - 15/01/2022)
+ICP Bangladesh Limited, Dhaka
+WEBSITE
+Cooperate in IT department to manage and develop IT infrastructure.
+https://github.com/saifndub
+www.facebook.com/microsoftsaif
+Research Assistant (01/12/2020 - 30/10/2021)
+Under a Data Scientist, University of Arizona
+"Analyze and Visualize Research Activities of Bangladesh".
+Programming knowledge
+Data Collection, Pre-processing, Analysis and Visualization.
+Web Scrapping, NodeJS, MongoDB, Python (Pandas, Plotly dash).
+Python
+NodeJS
+Education
+Core PHP
+C/C++
+Post-Graduation Diploma (PGD)
+United International University (UIU)
+Oct,2022 - Present
+Data Science
+Java
+CGPA : Ongoing
+JavaScript
+HTML/CSS
+Masters of Science (M.Sc)
+Jahangirnagar University (JU)
+Nov,2021 - Nov,2022
+Computer Science
+DBMS
+CGPA : 3.61 (Approximate)
+MongoDB
+Assembly Lang.
+Bachelor of Science (B.Sc)
+Notre Dame University Bangladesh (NDUB)
+Sep,2017 - Oct,2021
+Computer Science and Engineering
+CGPA : 3.91 (Out of 4.00)
+Skill Highlights
+Git/GitHub
+Digital Skills
+Robotics
+Data Science
+Microsoft Office (Word, Excel, PowerPoint)
+Photoshop, Illustrator
+Machine Learning
+Good Communication
+Artificial Intelligence
+Experienced Teamwork
+DBMS
+Skill development
+Web Development
+App Development
+Basic Information
+Undergraduate Project
+Sex
+Male
+Duration/Technology
+Project Name and Link
+Blood Group
+B+
+Nationality
+Bangladeshi
+April, 2021
+Animated Cricket Game with OpenGL
+Date of Birth
+22/07/1998
+C/C++
+https://github.com/saifndub/ComputerGraphicsLab
+Permanent Address
+28/2, Talla Sabujbag,
+September, 2020
+A compiler that can identify C program
+Fatullah, Narayanganj
+C/C++
+https://github.com/saifndub/Compiler Lab
+Nov - Dec, 2019
+University Management System using HTML/PHP/MySQL
+Web Development
+https://github.com/saifndub/UniversityManagementSystem
+Languages
+Oct - Nov, 2019
+Multifunctional Robot Car
+Arduino
+https://github.com/saifndub/Multifunctional Car
+Bengali - Mother Tongue
+Aug - Oct, 2019
+Automatic Water Pump Controller with Level Indicator
+English - Intermediate
+EEE
+https://m.facebook.com/automatic water pump controller
+German - Beginner
+Sep - Oct, 2019
+Industrial Motor Controlling and Monitoring System
+Arduino
+https://github.com/saifndub/Industrial Motor Controller
+Hobbies and Interests
+Nov - Dec, 2019
+24 Hour Digital Clock using 555 Timer & 4026 IC
+EEE
+https://youtu.be/-YahQV7nfLo
+Reading Holy Quran
+Nov - Dec, 2018
+Basic and Scientific Calculator using Java(OOP)
+Research and Development
+Java
+https://github.com/saifndub/CalculatorUsingJava
+Technology and Innovation
+Dec 2017 - Jan 2018
+Series/Parallel Testing Board with Safety Power System
+Travelling and Photography
+Sports and Music
+Training
+Linked-In QR Code
+Web Design using HTML/CSS/JavaScript
+Jan, 2020 (03 Months)
+IIT, University of Dhaka
+Qualified
+Web Programming using PHP and MySQL
+Nov, 2017 (03 Months)
+IIT, University of Dhaka
+Qualified
+Mechanical AutoCAD 2D/3D
+Dec, 2019 (06 Months)
+in
+Bangladesh Institute of Marine Technology
+Qualified
+Computer Operation
+Jun, 2019 (06 Months)
+Bangladesh Institute of Marine Technology
+Grade: B
+Freelancing/Out Sourcing
+Apr, 2017 (01 Month)
+Department of Youth Development
+Grade: A
+Certificate in Computer Application
+Jun, 2014 (03 Months)
+Narayanganj Youth Training Academy
+Grade: A+
+Saif
+Candidate Signature
+Reference
+Dr. Shaheena Sultana
+Md lqbal Hossain
+Relation:
+Direct Supervisor
+Research Instructor
+Email:
+shaheenacse@ndub.edu.bd
+enggigbal@gmail.com
+Institute:
+Notre Dame University Bangladesh
+University of Arizona, USA
+Designation:
+Associate Professor (Dept of CSE)
+Data Scientist

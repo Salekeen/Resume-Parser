@@ -105,7 +105,7 @@ def get_university_name(doc):
 
 if __name__ == "__main__":
 
-    extracted_texts_dir = '/home/epsilondelta/Work/ocr-project/extracted_texts/'
+    extracted_texts_dir = '/home/epsilondelta/Work/ocr-project/extracted_texts'
 
     # defining spacy language model
     nlp = spacy.load("en_core_web_lg")
